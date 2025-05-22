@@ -1,1 +1,1 @@
-console.log(RAM)
+console.log("RAM")
